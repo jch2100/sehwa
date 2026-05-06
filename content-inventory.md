@@ -40,7 +40,7 @@
 
 ## 이미지 후보 및 로컬 연결
 
-- 프로필 사진: `assets/profile.jpg`
+- 프로필 사진: `assets/profile-v2.jpg`
 - ART:REST 이미지: `assets/art-rest.png`
 - TCI 강의 이미지: `assets/tci.jpg`
 - 부모교육 이미지: `assets/parent-tci.png`
